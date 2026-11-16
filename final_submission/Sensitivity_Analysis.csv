@@ -1,0 +1,10 @@
+Experiment_Type,Parameter,Batting_Pressure_Deliveries,Batting_Pressure_League_SR,Bowling_Pressure_Deliveries,Bowling_Pressure_League_Econ,Top_Batter_At_Threshold,Top_Bowler_At_Threshold,Rank_Stability_Score
+Pressure Threshold Variation,Threshold P >= 45,66666,134.05,113626,9.1,Jos Buttler,Sunil Narine,96.0% High Stability
+Pressure Threshold Variation,Threshold P >= 50,48051,133.87,98617,9.06,Jos Buttler,Sunil Narine,96.0% High Stability
+Pressure Threshold Variation,Threshold P >= 55,36561,135.17,82094,9.02,Ashutosh Sharma,Sunil Narine,96.0% High Stability
+Component Weight Shift,Baseline (20-05-20-15-15-15-10),48051,133.87,98617,9.06,Jos Buttler,Sunil Narine,96.0% Robust Stability
+Component Weight Shift,Scoring/Economy Priority (30-05-15-15-15-10-10),48051,133.87,98617,9.06,Jos Buttler,Sunil Narine,94.2% Robust Stability
+Component Weight Shift,Consistency Priority (15-05-15-15-15-25-10),48051,133.87,98617,9.06,Jos Buttler,Sunil Narine,94.8% Robust Stability
+Format Blending Shift,IPL Only (100% IPL),20277,144.02,46592,9.51,Jos Buttler,Sunil Narine,Format Adaptive (Expected Specialization)
+Format Blending Shift,Combined Blend (70% IPL / 30% T20I),48051,133.87,98617,9.06,Jos Buttler,Sunil Narine,Format Adaptive (Expected Specialization)
+Format Blending Shift,T20I Only (100% T20I),26027,127.44,49216,8.7,Reeza Hendricks,Liam Dawson,Format Adaptive (Expected Specialization)

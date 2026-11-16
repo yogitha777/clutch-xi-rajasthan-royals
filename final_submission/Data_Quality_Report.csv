@@ -1,0 +1,7 @@
+Table,Total_Rows,Total_Columns,Duplicate_Rows,Columns_With_Nulls,Key_Metrics
+competitions,141,4,0,None,Unique Primary Keys/IDs: 141
+teams,353,3,0,None,Unique Primary Keys/IDs: 141
+matches,883,22,0,home_team_captain_id:44; away_team_captain_id:45; toss_win_team_id:15; toss_opted:15; first_inn_revised_overs:858; second_inn_revised_overs:858; revised_target:860; win_team_id:41,Unique Primary Keys/IDs: 883
+playing_eleven,28381,9,0,batting_order:8678; is_captain:8667; is_wk:8667,Unique Primary Keys/IDs: 880
+competition_team_player_mapping,6413,6,0,None,Unique Primary Keys/IDs: 140
+ball_by_ball,200999,33,0,dismissal_type_id:190118; dismissal_type:190118; dismissed_player_id:190107; extras_type:189167; stroke:6158; delivery_style:391; over_or_around:407,Unique Primary Keys/IDs: 867
